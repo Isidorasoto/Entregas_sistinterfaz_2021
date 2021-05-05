@@ -1,0 +1,67 @@
+body {
+    background-image:url("../css/img/pedro.lemebel.jpg");
+    background-repeat: no-repeat;
+    background-color: rgba(43, 42, 42, 0.411);
+    background-size:cover;
+    margin: 50px;
+    padding: 0px;
+}
+
+h1 {
+color: rgb(243, 239, 239);
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 48px;
+background-color:  rgba(165, 16, 16, 0.884);
+text-align: center;
+}
+
+img {
+    float: right;
+    margin-left: 20px;
+    padding-bottom: 20px;
+}
+
+p {
+color: #0e0d0d;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 16px;
+}
+
+blockquote {
+    font-size: 15px;
+    border-left: rgb(109, 7, 7) 4px solid;
+    width: 800px ;
+    padding-left: 10px;
+    margin: 8px;
+}
+
+.bajada__noticia {
+    font-size: 20px;
+    font-weight: bold;
+    border-bottom: 3px solid rgb(184, 21, 21);
+}
+
+#envoltorio__principal {
+    background-color: rgba(211, 200, 200, 0.63);
+    width: 70%;
+    padding: 30px;
+    margin-top: 25px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+}
+
+.sub__titulo {
+    font-size: 30px;
+    font-weight: bold;
+    border-bottom: 3px solid rgb(184, 21, 21);
+}
+
+.trailer_lemebel {
+    color: rgb(77, 76, 76);
+    font-size: 13px;
+    border-left: rgb(75, 73, 73) 2px solid;
+    width: 800px ;
+    padding-left: 10px;
+    margin: 6px;
+}
